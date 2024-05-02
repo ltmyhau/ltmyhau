@@ -15,8 +15,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-1F2328?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="27" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-1F2328?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="27" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/C++-1F2328?logo=c%2B%2B&logoColor=%2300599C" alt="C++ logo" title="C++" height="27" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%23-1F2328?logo=csharp&logoColor=512BD4" alt="C# logo" title="C#" height="27" /></span>
@@ -28,6 +26,8 @@
 <span><img src="https://img.shields.io/badge/Oracle-1F2328?logo=oracle&logoColor=F80000" alt="Oracle logo" title="Oracle" height="27" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-1F2328?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="27" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/WordPress-1F2328?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="27" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-1F2328?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="27" /></span>
 &nbsp;
