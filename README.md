@@ -38,11 +38,7 @@
 <div align=center>
   <img width="375" align="center" src="https://github-readme-stats.vercel.app/api?username=ltmyhau&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
   <img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=ltmyhau&theme=react&hide_border=false" />
-</div>
-
-<br>
-<h2 align="center">🌟 Most Used Language 🌟</h2>
-<br>
-<div align=center>
+  <br>
+  <br>
   <img width="440" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltmyhau&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
