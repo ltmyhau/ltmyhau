@@ -36,9 +36,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <img width="375" align="center" src="https://github-readme-stats.vercel.app/api?username=ltmyhau&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
-  <img align="right" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=ltmyhau&theme=react&hide_border=false" />
-  <br>
-  <br>
-  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltmyhau&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="375" src="https://github-readme-stats.vercel.app/api?username=ltmyhau&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=ltmyhau&theme=react&hide_border=false" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltmyhau&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
